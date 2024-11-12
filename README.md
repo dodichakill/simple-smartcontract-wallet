@@ -1,4 +1,4 @@
-# EXERCISE: Simple Smart Contract Wallet
+# EXERCISE: Simple Smart Contract Wallet (ERC20 & IERC20)
 
 ## Quick Start
 
